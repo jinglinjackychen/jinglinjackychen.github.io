@@ -1,5 +1,5 @@
-# AndySer37.github.io
+# jinglinjackychen.github.io
 
 ## Personal Website: 
 
-https://andyser37.github.io/
+https://jinglinjackychen.github.io/
